@@ -1,7 +1,11 @@
 # FitnessClub
-Download zip and install it in htdocs folder
-Create a database "gymdb"
-Upload the Sql folder file, so your tables can be created
+************************************************************
+1. Download zip and install it in htdocs folder
+************************************************************
+2. Create a database "gymdb"
+************************************************************
+3. Upload the Sql folder file, so your tables can be created
+
 
 ********************Admin Credential********************
 Username: admin@gmail.com
