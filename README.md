@@ -5,6 +5,7 @@
 2. Create a database "gymdb"
 ************************************************************
 3. Upload the Sql folder file, so your tables can be created
+************************************************************
 
 
 ********************Admin Credential********************
